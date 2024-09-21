@@ -16,6 +16,6 @@ src="https://raw.githubusercontent.com/DzarelDeveloper/img/main/AskCrush.png">
 <div class="btn-group"> <button class="yes-btn">Yes</button> <button class=no-btn">No</button>
 </div>
 </div>
-<script src="scirpt.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
